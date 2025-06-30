@@ -35,4 +35,4 @@ O projeto possui uma navegação por âncoras, explicando de forma dissertativa 
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/Wendersonjose/Desafio-Html-modulo-01.git
